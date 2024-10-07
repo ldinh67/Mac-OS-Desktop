@@ -43,7 +43,7 @@ body {
   height: 100vh;
   user-select: none;
   font-family: "Lexend", sans-serif;
-  background: url("../background/iridescence.jpg") center/cover no-repeat;
+  background: url("../background/face.jpg") center/cover no-repeat;
   overflow: hidden;
 }
 
